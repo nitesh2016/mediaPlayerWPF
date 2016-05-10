@@ -1,0 +1,57 @@
+D:\Антоняк Маркiян s23-v1\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+D:\Антоняк Маркiян s23-v1\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+D:\Антоняк Маркiян s23-v1\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+D:\Антоняк Маркiян s23-v1\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+D:\Антоняк Маркiян s23-v1\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.baml
+D:\Антоняк Маркiян s23-v1\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.g.cs
+D:\Антоняк Маркiян s23-v1\MediaPlayer\MediaPlayer\obj\Debug\App.g.cs
+D:\Антоняк Маркiян s23-v1\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+D:\Антоняк Маркiян s23-v1\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+D:\Антоняк Маркiян s23-v1\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+D:\Антоняк Маркiян s23-v1\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+D:\Антоняк Маркiян s23-v1\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+D:\Антоняк Маркiян s23-v1\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+F:\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+F:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.exe
+F:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.pdb
+F:\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.baml
+F:\MediaPlayer\MediaPlayer\obj\Debug\MainWindow.g.cs
+F:\MediaPlayer\MediaPlayer\obj\Debug\App.g.cs
+F:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+F:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+F:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+F:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+F:\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.exe
+F:\MediaPlayer\MediaPlayer\bin\Debug\MediaPlayer.pdb
+F:\MediaPlayer\MediaPlayer\obj\Debug\App.baml
+F:\MediaPlayer\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
+F:\MediaPlayerWPF\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+F:\MediaPlayerWPF\MediaPlayer\obj\Debug\MediaPlayer.exe
+F:\MediaPlayerWPF\MediaPlayer\obj\Debug\MediaPlayer.pdb
+Q:\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+Q:\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\MediaPlayer.exe
+Q:\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\MediaPlayer.pdb
+Q:\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\bin\Debug\MediaPlayer.exe
+Q:\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\bin\Debug\MediaPlayer.pdb
+Q:\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\MainWindow.baml
+Q:\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\App.baml
+Q:\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\MainWindow.g.cs
+Q:\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\App.g.cs
+Q:\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+Q:\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+Q:\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+Q:\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+F:\Mark\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\MainWindow.baml
+F:\Mark\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\App.baml
+F:\Mark\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\MainWindow.g.cs
+F:\Mark\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\App.g.cs
+F:\Mark\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\MediaPlayer_MarkupCompile.cache
+F:\Mark\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\MediaPlayer.g.resources
+F:\Mark\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+F:\Mark\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.Cache
+F:\Mark\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+F:\Mark\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\bin\Debug\MediaPlayer.exe
+F:\Mark\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\bin\Debug\MediaPlayer.pdb
+F:\Mark\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\MediaPlayer.exe
+F:\Mark\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\MediaPlayer.pdb
+F:\Mark\1\Antoniiak M. DONT DELETE!\MediaPlayerWPF\MediaPlayer\obj\Debug\MediaPlayer.csprojResolveAssemblyReference.cache
